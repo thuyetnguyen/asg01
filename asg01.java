@@ -1,7 +1,7 @@
 
 public class asg01 {
 	public static void main(String [] args){
-		System.out.println("ViTatThang\t11020304\tK56CC\tthangvitat\tatthang1106@gmail.com");
+		System.out.println("Họ và Tên :NguyenDinhThuyet\tMSSV:11020324\tK56CD\ttai khoản github :thuyetnguyen\thuyetdinh9xhn@gmail.com");
 		for(int i=1; i<=20;i++){
 			System.out.println("9 bottles of beer on the wall, 9 bottles of beer.\n"
 							+ "	Take one down, pass it around,\n"
